@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jiawei Liu"
 title_separator          : "-"
 name                     : &name "Jiawei Liu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research Assistant Professor, Shenyang Institute of Automation, Chinese Academy of Sciences"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nachifur.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,41 +23,41 @@ repository               : "nachifur.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "liujiawei.jpg"
+  name             : "Jiawei Liu (刘佳伟)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Assistant Professor, Shenyang Institute of Automation, Chinese Academy of Sciences (中科院沈自所)"
+  location         : "Shenyang, China"
+  employer         : "Shenyang Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liujiawei@sia.cn" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbPr7WsAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Jiawei-Liu-32"
+  arxiv            : "https://arxiv.org/search/?searchtype=orcid&query=0000-0002-7516-5008"
+  dblp             : "https://dblp.org/pid/12/8228-3.html"
+  orcid            : "https://orcid.org/0000-0002-7516-5008"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
   scopus           : # URL
   zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : nachifur
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : nachifur
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,22 +74,22 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : nachifur
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : nachifur
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
