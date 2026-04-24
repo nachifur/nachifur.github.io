@@ -17,9 +17,9 @@ author_profile: true
 
 ### Undergraduate & Masters
 - **Haoqiang Zhao** (MPhil student from UCAS, 2024.9), BEng at DLMU, Research Interests: Image Restoration
-- **Dongbo Yang** (MPhil student from UCAS, 2025.9), BEng at NEAU, Research Interests: Robotic Navigation
-- **Changhong He** (MPhil student from BUAA, 2025.7), Research Interests: Industrial anomaly detection
+- **Changhong He** (MPhil intern from BUAA, 2025.7), Research Interests: Industrial anomaly detection
 - **Wenchao Ma** (MPhil intern from SUT, 2025.8), Research Interests: Image Restoration
+- **Dongbo Yang** (MPhil student from UCAS, 2025.9), BEng at NEAU, Research Interests: Robotic Navigation
 - **Puhua Liu** (MPhil intern from NEU, 2025.9), Research Interests: Robotic Vision and Language Navigation
 - **Yinghe Chen** (MPhil intern from SYLU, 2025.9), Research Interests: Human-Object Interaction Detection
 - **Yanyu Li** (MPhil intern from NEU, 2025.10), Research Interests: Anomaly Detection in Industrial Time Series
