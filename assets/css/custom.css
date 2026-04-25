@@ -196,18 +196,6 @@
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
 }
 
-/* ===== 相册B：正常单图 ===== */
-.single-img {
-    width: 200px;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
-}
-
-/* caption */
-.stack-album p {
-    margin-top: 10px;
-    font-size: 14px;
-}
-
 
 /* 外层：横向滚动容器 */
 .album-scroll-container {
@@ -218,42 +206,16 @@
     scroll-behavior: smooth;
 }
 
-/* 每个相册卡片 */
-.stack-album {
-    flex: 0 0 auto;
-    /* 防止压缩 */
-    width: 240px;
-    text-align: center;
-    position: relative;
-}
-
-/* ===== 叠图效果 ===== */
-.img-back {
+.stack-album a {
     position: absolute;
-    top: 10px;
-    left: 10px;
-    width: 200px;
-    transform: rotate(-4deg);
-    z-index: 1;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.img-front {
-    position: relative;
+.stack-album a img {
     width: 200px;
-    transform: rotate(3deg);
-    z-index: 2;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+    transition: 0.3s;
 }
 
-/* 单图 */
-.single-img {
-    width: 200px;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
-}
-
-/* 标题 */
-.stack-album p {
-    margin-top: 10px;
-    font-size: 14px;
+/* 用变量控制层级（简单模拟） */
+.stack-album a:nth-child(n) {
+    transform: translate(calc(var(--i)*6px), calc(var(--i)*6px));
 }
