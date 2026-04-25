@@ -196,26 +196,49 @@
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
 }
 
-
-/* 外层：横向滚动容器 */
 .album-scroll-container {
     display: flex;
     gap: 40px;
     overflow-x: auto;
-    padding: 10px 5px;
+    padding: 20px 5px;
     scroll-behavior: smooth;
+}
+
+.stack-album {
+    position: relative;
+    width: 260px;
+    height: 200px;
+    flex-shrink: 0;
 }
 
 .stack-album a {
     position: absolute;
+    top: 0;
+    left: 0;
+
+    transform:
+        translate(calc(var(--i) * 8px), calc(var(--i) * 8px))
+        rotate(calc(var(--i) * -2deg));
+
+    z-index: calc(10 - var(--i));
 }
 
 .stack-album a img {
-    width: 200px;
+    width: 240px;
+    border-radius: 8px;
     transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-/* 用变量控制层级（简单模拟） */
-.stack-album a:nth-child(n) {
-    transform: translate(calc(var(--i)*6px), calc(var(--i)*6px));
+.stack-album:hover img {
+    transform: rotate(0deg) translateY(-10px);
+}
+
+.stack-album p {
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
 }
