@@ -1,0 +1,259 @@
+.paper {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 28px;
+    align-items: flex-start;
+}
+
+.paper-img img {
+    width: 280px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.paper-img img:hover {
+    transform: scale(1.05);
+}
+
+.paper-content {
+    flex: 1;
+}
+
+.paper-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1772d0;
+    text-decoration: none;
+}
+
+.paper-title:hover {
+    text-decoration: underline;
+}
+
+.paper-authors {
+    margin: 6px 0;
+    color: #333;
+    font-size: 16px;
+}
+
+.paper-venue {
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 6px;
+}
+
+.paper-links a {
+    display: inline-block;
+    padding: 3px 10px;
+    margin-right: 8px;
+    font-size: 14px;
+    border-radius: 6px;
+    background: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.paper-links a:hover {
+    background: #1772d0;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .paper {
+        flex-direction: column;
+    }
+
+    .paper-img img {
+        width: 100%;
+    }
+}
+
+/* 整体卡片 */
+.talk {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
+    padding: 18px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: all 0.25s ease;
+}
+
+.talk:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+/* 左图 */
+.talk-img img {
+    width: 280px;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+
+.talk-img img:hover {
+    transform: scale(1.05);
+}
+
+/* 内容 */
+.talk-content {
+    flex: 1;
+}
+
+/* 标题 */
+.talk-title {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+/* meta */
+.talk-meta {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 6px;
+    display: flex;
+    gap: 15px;
+}
+
+/* venue */
+.talk-venue {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+/* 标签 */
+.talk-tags {
+    margin-bottom: 10px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 12px;
+    border-radius: 6px;
+    background: #eef3ff;
+    color: #3b5bdb;
+    margin-right: 6px;
+}
+
+/* 链接 */
+.talk-links a {
+    margin-right: 12px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.talk-links a:hover {
+    text-decoration: underline;
+}
+
+/* 响应式（手机） */
+@media (max-width: 768px) {
+    .talk {
+        flex-direction: column;
+    }
+
+    .talk-img img {
+        width: 100%;
+    }
+}
+
+
+
+/* 两个相册并排 */
+.album-row {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+/* 每个相册容器 */
+.stack-album {
+    position: relative;
+    width: 240px;
+    text-align: center;
+}
+
+/* ===== 相册A：叠加效果 ===== */
+.img-back {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    transform: rotate(-4deg);
+    z-index: 1;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.img-front {
+    position: relative;
+    width: 200px;
+    transform: rotate(3deg);
+    z-index: 2;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+/* ===== 相册B：正常单图 ===== */
+.single-img {
+    width: 200px;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+/* caption */
+.stack-album p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+
+/* 外层：横向滚动容器 */
+.album-scroll-container {
+    display: flex;
+    gap: 40px;
+    overflow-x: auto;
+    padding: 10px 5px;
+    scroll-behavior: smooth;
+}
+
+/* 每个相册卡片 */
+.stack-album {
+    flex: 0 0 auto;
+    /* 防止压缩 */
+    width: 240px;
+    text-align: center;
+    position: relative;
+}
+
+/* ===== 叠图效果 ===== */
+.img-back {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    transform: rotate(-4deg);
+    z-index: 1;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.img-front {
+    position: relative;
+    width: 200px;
+    transform: rotate(3deg);
+    z-index: 2;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+/* 单图 */
+.single-img {
+    width: 200px;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+/* 标题 */
+.stack-album p {
+    margin-top: 10px;
+    font-size: 14px;
+}
