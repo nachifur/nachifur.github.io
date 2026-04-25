@@ -47,23 +47,28 @@ author_profile: true
 
   <!-- 相册 A -->
   <div class="stack-album">
-    <a href="/images/group/2025-6-20-3.jpg" data-lightbox="group-2025-6" style="--i:0">
+    <a href="/images/group/2025-6-20-3.jpg" data-lightbox="group-2025-6" style="--i:2">
       <img src="/images/group/2025-6-20-3.jpg">
     </a>
     <a href="/images/group/2025-6-20-2.jpg" data-lightbox="group-2025-6" style="--i:1">
       <img src="/images/group/2025-6-20-2.jpg">
     </a>
-    <a href="/images/group/2025-6-20-1.jpg" data-lightbox="group-2025-6" style="--i:2">
+    <a href="/images/group/2025-6-20-1.jpg" data-lightbox="group-2025-6" style="--i:0">
       <img src="/images/group/2025-6-20-1.jpg">
     </a>
     <p>Group Photo 2025.6</p>
   </div>
 
   <!-- 相册 B -->
-  <!-- <div class="stack-album">
-
-    <p>Group B</p>
-  </div> -->
+  <div class="stack-album">
+    <a href="/images/group/2024-6-16-2.jpg" data-lightbox="group-2024-6" style="--i:1">
+      <img src="/images/group/2024-6-16-2.jpg">
+    </a>
+    <a href="/images/group/2024-6-16-1.jpg" data-lightbox="group-2024-6" style="--i:0">
+      <img src="/images/group/2024-6-16-1.jpg">
+    </a>
+    <p>Group Photo 2024.6</p>
+  </div>
 
 </div>
 

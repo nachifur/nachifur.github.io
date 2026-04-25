@@ -211,28 +211,39 @@
     flex-shrink: 0;
 }
 
+.stack-album:hover a {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transform:
+        translate(calc(var(--i) * 12px), calc(var(--i) * 12px))
+        rotate(calc(var(--i) * -5deg));
+
+    z-index: calc(10 - 2*var(--i));
+}
+
 .stack-album a {
     position: absolute;
     top: 0;
     left: 0;
 
     transform:
-        translate(calc(var(--i) * 8px), calc(var(--i) * 8px))
-        rotate(calc(var(--i) * -2deg));
+        translate(0)
+        rotate(0);
 
-    z-index: calc(10 - var(--i));
+    z-index: calc(0);
 }
 
 .stack-album a img {
     width: 240px;
+    height: 160px;
+    object-fit: cover;
     border-radius: 8px;
     transition: 0.3s;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-.stack-album:hover img {
-    transform: rotate(0deg) translateY(-10px);
-}
 
 .stack-album p {
     position: absolute;
@@ -242,3 +253,4 @@
     text-align: center;
     font-size: 14px;
 }
+
