@@ -5,6 +5,8 @@ permalink: /students/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div class="lab-intro">
   <p>Welcome to the SIA-AIG. Our group focuses on <strong>Industrial AI</strong>, <strong>Generative AI</strong>, and <strong>Robot Vision</strong>.</p>
 </div>
@@ -37,3 +39,30 @@ author_profile: true
 - **Chaohang Huang** (MPhil student from SAU in 2025.10 -> PhD at NEU)
 - **Yinong Wang** (BSc intern from SCUT in 2024.1 -> PhD at HKU)
 - **Ziyue Lin** (MSc intern from HKU in 2025.4 -> PhD at PolyU)
+
+## Group Photos
+
+
+<div class="album-scroll-container">
+
+  <!-- 相册 A -->
+  <div class="stack-album">
+    <a href="/images/group/2025-6-20-3.jpg" data-lightbox="group-2025-6">
+      <img src="/images/group/2025-6-20-3.jpg" class="img-back">
+    </a>
+    <a href="/images/group/2025-6-20-2.jpg" data-lightbox="group-2025-6">
+      <img src="/images/group/2025-6-20-2.jpg" class="img-front">
+    </a>
+    <a href="/images/group/2025-6-20-1.jpg" data-lightbox="group-2025-6">
+      <img src="/images/group/2025-6-20-1.jpg" class="img-back">
+    </a>
+    <p>Group Photo 2025.6</p>
+  </div>
+
+  <!-- 相册 B -->
+  <!-- <div class="stack-album">
+
+    <p>Group B</p>
+  </div> -->
+
+</div>
