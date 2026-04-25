@@ -14,3 +14,11 @@ I serve as a reviewer for top-tier international journals and conferences such a
 I have received several awards, including the First Prize in the 2nd Liaoning Provincial Postdoctoral Innovation and Entrepreneurship Competition, the Best Poster Award at IEEE-CYBER 2023, the Innovation Award in the Liaoning Youth AI Innovation Competition, and the Third Prize in the 4th China Open Source Innovation Competition.
 
 Previously, I obtained my Ph.D. degree in University of Chinese Academy of Sciences, supervised by Prof. [Yandong Tang](https://scholar.google.com/citations?user=CaglmKAAAAAJ&hl=en).
+
+***RECENT NEWS***
+* 2026-02: One papers about diffusion model accepted to IEEE CVPR 2026.
+* 2026-02: One papers about co-speech gesture video generation accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/11145152).
+* 2026-01: One paper about CT Reconstruction from X-Rays accepted to [IEEE TIP](https://arxiv.org/abs/2503.17804)
+* 2025-11: One papers about autoregressive representation alignment accepted to [AAAI 2026](https://arxiv.org/pdf/2503.07334) (Oral Presentation).
+* 2024-10: One papers about bearing health management accepted to [AAAI 2025](https://arxiv.org/pdf/2408.11281).
+* 2024-02: One papers about diffusion model accepted to [IEEE CVPR 2024](https://arxiv.org/pdf/2308.13712.pdf).
