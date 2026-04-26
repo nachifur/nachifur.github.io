@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox-plus-jquery.min.js"></script>
 
 <div class="lab-intro">
   <p>Welcome to the SIA-AIG. Our group focuses on <strong>Industrial AI</strong>, <strong>Generative AI</strong>, and <strong>Robot Vision</strong>.</p>
