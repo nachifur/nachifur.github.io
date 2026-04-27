@@ -14,10 +14,9 @@ author_profile: true
 </div>
 
 ### PhD Students
-
-- **Tao Xia** (PhD intern at BIT, 2025.5), MPhil at BUAA, Research Interests: Generative Image Editing
 - **Jiahe Hou** (PhD student, 2025.9), BEng at DUT, Research Interests: Industrial anomaly detection, Diffusion Models
 - **Haoyi Zhang** (Incoming PhD student, 2026.9), BEng at BJTU, Research Interests: Robotic Vision and Language Navigation
+- **Tao Xia** (PhD intern at BIT, 2025.5), MPhil at BUAA, Research Interests: Generative Image Editing
 
 ### Undergraduate & Masters
 - **Haoqiang Zhao** (MPhil student from UCAS, 2024.9), BEng at DLMU, Research Interests: Image Restoration
