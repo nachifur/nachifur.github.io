@@ -14,7 +14,7 @@ author_profile: true
 </div>
 
 ### PhD Students
-- **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI
+
 - **Tao Xia** (PhD intern at BIT, 2025.5), MPhil at BUAA, Research Interests: Generative Image Editing
 - **Jiahe Hou** (PhD student, 2025.9), BEng at DUT, Research Interests: Industrial anomaly detection, Diffusion Models
 - **Haoyi Zhang** (Incoming PhD student, 2026.9), BEng at BJTU, Research Interests: Robotic Vision and Language Navigation
@@ -41,6 +41,7 @@ author_profile: true
 - **Chaohang Huang** (MPhil student from SAU in 2025.10 -> PhD at NEU)
 - **Yinong Wang** (BSc intern from SCUT in 2024.1 -> PhD at HKU)
 - **Ziyue Lin** (MSc intern from HKU in 2025.4 -> PhD at PolyU)
+- <!-- - **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI -->
 
 ## Group Photos
 
