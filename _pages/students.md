@@ -40,7 +40,7 @@ author_profile: true
 - **Chaohang Huang** (MPhil intern from SAU in 2025.10 -> PhD at NEU)
 - **Yinong Wang** (BSc intern from SCUT in 2024.1 -> PhD at HKU)
 - **Ziyue Lin** (MSc intern from HKU in 2025.4 -> )  <!--PhD at PolyU-->
-- <!-- - **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI -->
+<!-- - **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI -->
 
 ## Group Photos
 
