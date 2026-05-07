@@ -32,7 +32,7 @@ author_profile: true
 - **Jun Zhao** (MPhil intern from XMU, 2026.3), Research Interests: Diffusion Models
 - **Zhaoxin Yang** (MPhil intern from JLU, 2026.3), Research Interests: Agent-Based Industrial Anomaly Detection
 - **Dengfeng Xuping** (Incoming MPhil student, 2026.9), BEng at UESTC, Research Interests: Industrial Time-Series Analysis
-- **Zhuoyue Chen** (Undergraduate intern, 2025.5), Research Interests: Software Development
+<!-- - **Zhuoyue Chen** (Undergraduate intern, 2025.5), Research Interests: Software Development -->
 
 ## Alumni
 - **Siyuan Wang** (MPhil student from UCAS in 2023.9 -> PhD at UCAS)
