@@ -27,12 +27,12 @@ author_profile: true
 - **Yinghe Chen** (MPhil intern from SYLU, 2025.9), Research Interests: Human-Object Interaction Detection
 - **Yanyu Li** (MPhil intern from NEU, 2025.10), Research Interests: Anomaly Detection in Industrial Time Series
 - **Jiaqi Tan** (MPhil intern from BUPT, 2025.10), Research Interests: Diffusion Models
-- **Gaopeng Wang** (MPhil intern from XMU, 2025.11), Research Interests: Diffusion Models
 - **Yingming Zhang** (MPhil intern from SUT, 2026.2), Research Interests: Robotic Navigation
-- **Jun Zhao** (MPhil intern from XMU, 2026.3), Research Interests: Diffusion Models
 - **Zhaoxin Yang** (MPhil intern from JLU, 2026.3), Research Interests: Agent-Based Industrial Anomaly Detection
 - **Dengfeng Xuping** (Incoming MPhil student, 2026.9), BEng at UESTC, Research Interests: Industrial Time-Series Analysis
-<!-- - **Zhuoyue Chen** (Undergraduate intern, 2025.5), Research Interests: Software Development -->
+<!-- - **Zhuoyue Chen** (Undergraduate intern, 2025.5), Research Interests: Software Development 
+- **Gaopeng Wang** (MPhil intern from XMU, 2025.11), Research Interests: Diffusion Models
+- **Jun Zhao** (MPhil intern from XMU, 2026.3), Research Interests: Diffusion Models-->
 
 ## Alumni
 - **Siyuan Wang** (MPhil student from UCAS in 2023.9 -> PhD at UCAS)
