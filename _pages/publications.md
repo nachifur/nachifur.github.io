@@ -32,7 +32,6 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
 
     <div class="paper-venue">
       IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
-      <span style="color:#888;">(Paper is coming soon)</span>
     </div>
 
     <div class="paper-links">
