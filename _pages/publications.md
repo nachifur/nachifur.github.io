@@ -36,8 +36,8 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     </div>
 
     <div class="paper-links">
-      <a href="#">Paper</a>
-      <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/2606.01048">Paper</a>
+      <a href="https://github.com/HKU-HealthAI/DRDD">Code</a>
     </div>
 
   </div>
