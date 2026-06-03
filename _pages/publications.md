@@ -37,6 +37,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     <div class="paper-links">
       <a href="https://arxiv.org/pdf/2606.01048">Paper</a>
       <a href="https://github.com/HKU-HealthAI/DRDD">Code</a>
+      <a href="https://www.youtube.com/watch?v=l3hLEwMDjOM">Video</a>
     </div>
 
   </div>
@@ -207,6 +208,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     <div class="paper-links">
       <a href="https://arxiv.org/pdf/2308.13712.pdf">Paper</a>
       <a href="https://github.com/nachifur/RDDM">Code</a>
+      <a href="https://www.youtube.com/watch?v=E-ObZs32fEU">Video</a>
     </div>
 
   </div>
