@@ -14,6 +14,37 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
 <div class="paper">
 
   <div class="paper-img">
+    <img src="/images/papers/2026_eccv.jpg">
+  </div>
+
+  <div class="paper-content">
+
+    <div class="paper-title">
+      <span style="color:#1772d0;">
+        <b>Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation</b>
+      </span>
+    </div>
+
+    <div class="paper-authors">
+      Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu.
+    </div>
+
+    <div class="paper-venue">
+      European conference on computer vision (ECCV 2026)
+    </div>
+
+    <div class="paper-links">
+      <a href="">Paper</a>
+      <a href="">Code</a>
+      <a href="">Video</a>
+    </div>
+
+  </div>
+</div>
+
+<div class="paper">
+
+  <div class="paper-img">
     <img src="/images/papers/2026_cvpr.jpg">
   </div>
 

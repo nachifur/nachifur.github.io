@@ -16,9 +16,10 @@ I have received several awards, including the First Prize in the 2nd Liaoning Pr
 Previously, I obtained my Ph.D. degree in University of Chinese Academy of Sciences, supervised by Prof. [Yandong Tang](https://scholar.google.com/citations?user=CaglmKAAAAAJ&hl=en).
 
 ***RECENT NEWS***
-* 2026-02: One papers about diffusion model accepted to IEEE CVPR 2026.
+* 2026-06: One papers about discrete diffusion model accepted to ECCV 2026.
+* 2026-02: One papers about diffusion model accepted to [IEEE/CVF CVPR 2026](https://arxiv.org/pdf/2606.01048).
 * 2026-02: One papers about co-speech gesture video generation accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/11145152).
 * 2026-01: One paper about CT Reconstruction from X-Rays accepted to [IEEE TIP](https://arxiv.org/abs/2503.17804)
 * 2025-11: One papers about autoregressive representation alignment accepted to [AAAI 2026](https://arxiv.org/pdf/2503.07334) (Oral Presentation).
 * 2024-10: One papers about bearing health management accepted to [AAAI 2025](https://arxiv.org/pdf/2408.11281).
-* 2024-02: One papers about diffusion model accepted to [IEEE CVPR 2024](https://arxiv.org/pdf/2308.13712.pdf).
+* 2024-02: One papers about diffusion model accepted to [IEEE/CVF CVPR 2024](https://arxiv.org/pdf/2308.13712.pdf).
