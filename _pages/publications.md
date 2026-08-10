@@ -34,9 +34,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     </div>
 
     <div class="paper-links">
-      <a href="">Paper</a>
-      <a href="">Code</a>
-      <a href="">Video</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11643562">Paper</a>
     </div>
 
   </div>
@@ -65,7 +63,9 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     </div>
 
     <div class="paper-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11643562">Paper</a>
+      <a href="">Paper</a>
+      <a href="">Code</a>
+      <a href="">Video</a>
     </div>
 
   </div>
