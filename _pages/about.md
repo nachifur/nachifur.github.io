@@ -16,6 +16,7 @@ I have received several awards, including the First Prize in the 2nd Liaoning Pr
 Previously, I obtained my Ph.D. degree in University of Chinese Academy of Sciences, supervised by Prof. [Yandong Tang](https://scholar.google.com/citations?user=CaglmKAAAAAJ&hl=en).
 
 ***RECENT NEWS***
+* 2026-08: One papers about image enhancement accepted to [TPAMI 2026](https://ieeexplore.ieee.org/abstract/document/11643562).
 * 2026-06: One papers about discrete diffusion model accepted to ECCV 2026.
 * 2026-02: One papers about diffusion model accepted to [IEEE/CVF CVPR 2026](https://arxiv.org/pdf/2606.01048).
 * 2026-02: One papers about co-speech gesture video generation accepted to [IEEE TCSVT 2026](https://ieeexplore.ieee.org/document/11145152).

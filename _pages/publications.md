@@ -14,6 +14,37 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
 <div class="paper">
 
   <div class="paper-img">
+    <img src="/images/papers/2026_tpami.jpg">
+  </div>
+
+  <div class="paper-content">
+
+    <div class="paper-title">
+      <span style="color:#1772d0;">
+        <b>ZeroPIE: Zero-Reference Polarization-Aware Low-Light Enhancement via Physically Derived Illumination-Invariant Priors</b>
+      </span>
+    </div>
+
+    <div class="paper-authors">
+      Zhenshuo Yang, Zhiyuan Liu, Yang Lu, Jiawei Liu, Jiandong Tian.
+    </div>
+
+    <div class="paper-venue">
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2026)
+    </div>
+
+    <div class="paper-links">
+      <a href="">Paper</a>
+      <a href="">Code</a>
+      <a href="">Video</a>
+    </div>
+
+  </div>
+</div>
+
+<div class="paper">
+
+  <div class="paper-img">
     <img src="/images/papers/2026_eccv.jpg">
   </div>
 
@@ -34,9 +65,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
     </div>
 
     <div class="paper-links">
-      <a href="">Paper</a>
-      <a href="">Code</a>
-      <a href="">Video</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11643562">Paper</a>
     </div>
 
   </div>
