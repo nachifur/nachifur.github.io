@@ -7,7 +7,31 @@ author_profile: true
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-
+<!-- Talk 8 -->
+<div class="talk">
+  <div class="talk-img">
+    <img src="/images/talks/2026_ccf.jpg" alt="Unified Image-to-Image Framework Talk">
+  </div>
+  <div class="talk-content">
+    <h3 class="talk-title">
+      Towards a Unified Image-to-Image Distribution Transformation Framework: Residual Denoising Diffusion Models
+    </h3>
+    <div class="talk-meta">
+      <span>📅 Aug 16, 2026</span>
+      <span>📍 Shenyang, China</span>
+    </div>
+    <div class="talk-venue">
+      CCF ChinaOSC
+    </div>
+    <div class="talk-tags">
+      <span class="tag">Invited Talk</span>
+      <span class="tag">Forum</span>
+    </div>
+    <div class="talk-links">
+      <a href="https://mp.weixin.qq.com/s/PCx5YmiUBWbSDBXikFaCzQ">🔗 Link</a>
+    </div>
+  </div>
+</div>
 
 <!-- Talk 7 (Latest) -->
 <div class="talk">
