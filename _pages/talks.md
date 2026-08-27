@@ -28,7 +28,7 @@ author_profile: true
       <span class="tag">Forum</span>
     </div>
     <div class="talk-links">
-      <a href="https://mp.weixin.qq.com/s/PCx5YmiUBWbSDBXikFaCzQ">🔗 Link</a>
+      <a href="https://mp.weixin.qq.com/s/CsJV4wtqKh_6tDtchLeWcg">🔗 Link</a>
     </div>
   </div>
 </div>
@@ -79,10 +79,11 @@ author_profile: true
     </div>
     <div class="talk-links">
       <a href="2026_ir.pdf">📄 Slides</a>
-      <a href="https://mp.weixin.qq.com/s/CsJV4wtqKh_6tDtchLeWcg">🔗 Link</a>
+      <a href="https://mp.weixin.qq.com/s/uYhfo1yNxoq6Yw6ZzAbeFw">🔗 Link</a>
     </div>
   </div>
 </div>
+
 
 <!-- Talk 5 -->
 <div class="talk">
