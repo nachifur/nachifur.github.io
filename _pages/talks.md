@@ -79,7 +79,7 @@ author_profile: true
     </div>
     <div class="talk-links">
       <a href="2026_ir.pdf">📄 Slides</a>
-      <a href="https://mp.weixin.qq.com/s/uYhfo1yNxoq6Yw6ZzAbeFw">🔗 Link</a>
+      <a href="https://mp.weixin.qq.com/s/CsJV4wtqKh_6tDtchLeWcg">🔗 Link</a>
     </div>
   </div>
 </div>
