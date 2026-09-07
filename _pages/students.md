@@ -48,10 +48,10 @@ author_profile: true
 <div class="album-scroll-container">
   <!-- 相册 C -->
   <div class="stack-album">
-    <a href="/images/group/2026-9-4-5.jpg" data-lightbox="group-2026-9" style="--i:2">
+    <a href="/images/group/2026-9-4-5.jpg" data-lightbox="group-2026-9" style="--i:4">
       <img src="/images/group/2026-9-4-5.jpg">
     </a>
-    <a href="/images/group/2026-9-4-4.jpg" data-lightbox="group-2026-9" style="--i:2">
+    <a href="/images/group/2026-9-4-4.jpg" data-lightbox="group-2026-9" style="--i:3">
       <img src="/images/group/2026-9-4-4.jpg">
     </a>
     <a href="/images/group/2026-9-4-3.jpg" data-lightbox="group-2026-9" style="--i:2">
@@ -63,7 +63,7 @@ author_profile: true
     <a href="/images/group/2026-9-4-1.jpg" data-lightbox="group-2026-9" style="--i:0">
       <img src="/images/group/2026-9-4-1.jpg">
     </a>
-    <p>Group Photo 2025.6</p>
+    <p>Group Photo 2026.9</p>
   </div>
 
   <!-- 相册 B -->
