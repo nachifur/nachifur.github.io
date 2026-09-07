@@ -17,6 +17,7 @@ author_profile: true
 - **Jiahe Hou** (PhD student, 2025.9), BEng at DUT, Research Interests: Industrial anomaly detection, Diffusion Models
 - **Haoyi Zhang** (Incoming PhD student, 2026.9), BEng at BJTU, Research Interests: Robotic Vision and Language Navigation
 - **Tao Xia** (PhD intern at BIT, 2025.5), MPhil at BUAA, Research Interests: Generative Image Editing
+- **Zhaoxin Yang** (PhD intern from JLU, 2026.3), Research Interests: Agent-Based Industrial Anomaly Detection
 
 ### Undergraduate & Masters
 - **Haoqiang Zhao** (MPhil student from UCAS, 2024.9), BEng at DLMU, Research Interests: Image Restoration
@@ -24,10 +25,9 @@ author_profile: true
 - **Dongbo Yang** (MPhil student from UCAS, 2025.9), BEng at NEAU, Research Interests: Robotic Navigation
 - **Puhua Liu** (MPhil intern from NEU, 2025.9), Research Interests: Robotic Vision and Language Navigation
 - **Yinghe Chen** (MPhil intern from SYLU, 2025.9), Research Interests: Human-Object Interaction Detection
-- **Jiaqi Tan** (MPhil intern from BUPT, 2025.10), Research Interests: Diffusion Models
-- **Yingming Zhang** (MPhil intern from SUT, 2026.2), Research Interests: Robotic Navigation
-- **Zhaoxin Yang** (MPhil intern from JLU, 2026.3), Research Interests: Agent-Based Industrial Anomaly Detection
-- **Dengfeng Xuping** (Incoming MPhil student, 2026.9), BEng at UESTC, Research Interests: Industrial Time-Series Analysis
+- **Yudong Zhang** (MPhil student from LNPU, 2026.6), Research Interests: Industrial Visual Inspection
+- **Dengfeng Xuping** (MPhil student, 2026.9), BEng at UESTC, Research Interests: Industrial Time-Series Analysis
+- **Gu Huang** (MPhil intern from SYLU, 2026.9), Research Interests: Industrial Visual Inspection
 
 ## Alumni
 - **Siyuan Wang** (MPhil student from UCAS in 2023.9 -> PhD at UCAS)
@@ -36,16 +36,37 @@ author_profile: true
 - **Yinong Wang** (BSc intern from SCUT in 2024.1 -> PhD at HKU)
 - **Ziyue Lin** (MSc intern from HKU in 2025.4 -> PhD at PolyU)
 - **Hongyu Xia** (MSc intern from HKU in 2025.4 -> PhD at HITSZ)
-<!-- - **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI -->
+<!-- **Xing Xie** (PhD student at UCAS, 2023.9), BEng at FZU, Research Interests: Generative AI -->
 <!-- **Changhong He** (MPhil intern from BUAA, 2025.7), Research Interests: Industrial anomaly detection -->
 <!-- **Yanyu Li** (MPhil intern from NEU, 2025.10), Research Interests: Anomaly Detection in Industrial Time Series -->
+<!-- **Jiaqi Tan** (MPhil intern from BUPT, 2025.10), Research Interests: Diffusion Models -->
+<!--  **Yingming Zhang** (MPhil intern from SUT, 2026.2), Research Interests: Robotic Navigation -->
 
 ## Group Photos
 
 
 <div class="album-scroll-container">
+  <!-- 相册 C -->
+  <div class="stack-album">
+    <a href="/images/group/2026-9-4-5.jpg" data-lightbox="group-2026-9" style="--i:2">
+      <img src="/images/group/2026-9-4-5.jpg">
+    </a>
+    <a href="/images/group/2026-9-4-4.jpg" data-lightbox="group-2026-9" style="--i:2">
+      <img src="/images/group/2026-9-4-4.jpg">
+    </a>
+    <a href="/images/group/2026-9-4-3.jpg" data-lightbox="group-2026-9" style="--i:2">
+      <img src="/images/group/2026-9-4-3.jpg">
+    </a>
+    <a href="/images/group/2026-9-4-2.jpg" data-lightbox="group-2026-9" style="--i:1">
+      <img src="/images/group/2026-9-4-2.jpg">
+    </a>
+    <a href="/images/group/2026-9-4-1.jpg" data-lightbox="group-2026-9" style="--i:0">
+      <img src="/images/group/2026-9-4-1.jpg">
+    </a>
+    <p>Group Photo 2025.6</p>
+  </div>
 
-  <!-- 相册 A -->
+  <!-- 相册 B -->
   <div class="stack-album">
     <a href="/images/group/2025-6-20-3.jpg" data-lightbox="group-2025-6" style="--i:2">
       <img src="/images/group/2025-6-20-3.jpg">
@@ -59,7 +80,7 @@ author_profile: true
     <p>Group Photo 2025.6</p>
   </div>
 
-  <!-- 相册 B -->
+  <!-- 相册 A -->
   <div class="stack-album">
     <a href="/images/group/2024-6-16-2.jpg" data-lightbox="group-2024-6" style="--i:1">
       <img src="/images/group/2024-6-16-2.jpg">
