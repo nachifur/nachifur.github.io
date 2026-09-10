@@ -18,7 +18,7 @@ author_profile: true
     </h3>
     <div class="talk-meta">
       <span>📅 Aug 16, 2026</span>
-      <span>📍 Shenyang, China</span>
+      <span>📍 Chongqing, China</span>
     </div>
     <div class="talk-venue">
       CCF ChinaOSC
